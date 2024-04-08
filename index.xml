@@ -2,103 +2,103 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beautiful Hugo</title>
-    <link>https://username.github.io/</link>
+    <link>https://www.boardgame.bigdata.com/</link>
     <description>Recent content on Beautiful Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
-    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <language>zh-tw</language>
+    <managingEditor>youremail@domain.com (阿嚕米)</managingEditor>
+    <webMaster>youremail@domain.com (阿嚕米)</webMaster>
     <lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://username.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.boardgame.bigdata.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>璀璨寶石</title>
-      <link>https://username.github.io/post/%E7%92%80%E7%92%A8%E5%AF%B6%E7%9F%B3splendor/</link>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate><author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/post/%E7%92%80%E7%92%A8%E5%AF%B6%E7%9F%B3splendor/</guid>
-      <description>人數：2-4 人（BGG 推薦最佳 3 人） 牌套：65x90(64x89)mm - 90 張&#xA;遊戲背景 玩家是文藝復興時期的富商，採集寶石，製作成珠寶、吸引當地貴族，成為當地最有名望的商人！&#xA;遊戲設置 圖&#xA;遊戲概述 圖 用左下角所指定的寶石，購買卡牌，獲得左上角聲望分數 圖 湊齊指定卡牌，吸引貴族，也可以獲得分數&#xA;遊戲目標 ==獲得最高聲望分數者獲勝，若同分，購買較少聲望卡牌者獲勝== 當有玩家獲得 15 分，觸發終局機制(call game)，該遊戲回合輪完最後一位玩家後，最高分的玩家為遊戲贏家，因此第一位獲得 15 分的玩家不一定是贏家 （假如有四位玩家，這一遊戲回合中起始玩家獲得 15 分，遊戲仍會持續進行直到第四位玩家結束他的回合）&#xA;遊戲進行 遊戲採玩家回合進行，每位玩家執行完動作「四選一」後，順時針換下一位玩家的回合&#xA;選擇一：拿取三個不同顏色的寶石 選擇二：拿取兩個相同顏色的寶石 此行動僅可在該顏色寶石儲量至少有四個時可以選擇，只剩三個以下時不能選此行動&#xA;在選擇一或二之後，請檢查手上寶石數量，最多僅可保留 10 顆，玩家須捨棄寶石放回儲備區，可以自行選擇欲捨棄寶石 註:手上已經有 10 顆寶石時，仍然可以選擇拿取寶石（選擇一或二），先進行拿取後再捨棄超出數量&#xA;選擇三：購買一張聲望卡 付出聲望卡左下角對應的寶石種類及數量，即可購買該張聲望卡，再從同等級牌堆翻出一張卡補齊空格 購買後放在自己面前，建議將同顏色聲望卡以露出上方寶石及分數的方式疊在一起&#xA;永久折價券 當你買了一張藍寶石卡（右上角藍寶石），未來買任何需要藍寶石的卡片時，都可以減免一顆藍寶石！你有兩張就減免兩顆，以此類推…賺爛！ 這個折扣是永遠存在、而且沒有上限的，所以在遊戲後期，是有可能不需要付出寶石，而直接免費購買某一張聲望卡 所以 Level 3 的卡才會那麼貴，正常來說是需要靠一二等卡片的累積，這就是桌遊裡所謂的系統構築，摸到門檻了 😂&#xA;選擇四：保留一張發展卡、並拿取一個黃金 如果有很想買的卡，現在還買不起，但怕被別人買走，可以先選擇保留起來，並拿取一個黃金 將保留的卡橫置在自己面前，在之後自己的回合中透過購買行動購買，注意保留後不可選擇放棄，且最多保留三張，在購買前不會享有折扣及獲得上面的積分 保留也可以盲抽牌堆中最上面那張進行盲保留，可以不公開給其他玩家 黃金為萬用指示物，可在未來某次購買時取代一顆任意寶石，不一定要用在保留的那張聲望卡，黃金也須計入寶石的 10 顆上限中&#xA;玩家回合的最後要記得&amp;hellip; 在執行完玩家回合（動作四選一）後，檢查自己面前若有符合貴族所要求之對應卡牌顏色及數量，貴族會自動放到你面前（不需耗費行動、也不可拒絕） 一回合中若滿足多位貴族條件，僅可自行挑選一位放到自己面前，只能一位且不能拒絕&#xA;檢查面前聲望卡牌及貴族板塊，左上角分數加總後是否大於等於 15 分，若有即觸發終局機制（詳見遊戲目標）&#xA;常見問題 Q：某一疊卡牌用完了 Q：&#xA;小編的話 第一篇規則決定獻給我的啟蒙遊戲「璀璨寶石」，還記得國中時跟同學去家附近的桌遊店，當時店員推薦給我們的最適合入門的家庭策略，就是璀璨寶石，當時甚至喜歡到跟同學合資買了一盒，成為我擁有的第一款桌遊(ˉ︶ˉ)，也可以說它開啟了我對桌遊的熱情 R，非常適合推坑家人朋友，作為認識策略遊戲的敲門磚。</description>
+      <link>https://www.boardgame.bigdata.com/post/2024-04-01-splendor/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate><author>youremail@domain.com (阿嚕米)</author>
+      <guid>https://www.boardgame.bigdata.com/post/2024-04-01-splendor/</guid>
+      <description>&lt;p&gt;人數：2-4 人（BGG 推薦最佳 3 人）&#xA;牌套：65x90(64x89)mm - 90 張&lt;/p&gt;&#xA;&lt;h2 id=&#34;遊戲背景&#34;&gt;遊戲背景&lt;/h2&gt;&#xA;&lt;p&gt;玩家是文藝復興時期的富商，採集寶石，製作成珠寶、吸引當地貴族，成為當地最有名望的商人！&lt;/p&gt;</description>
     </item>
     <item>
       <title>Photoswipe Gallery Sample</title>
-      <link>https://username.github.io/post/2017-03-20-photoswipe-gallery-sample/</link>
-      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate><author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/post/2017-03-20-photoswipe-gallery-sample/</guid>
-      <description>&lt;p&gt;Beautiful Hugo adds a few custom shortcodes created by &lt;a href=&#34;https://www.liwen.id.au/heg/&#34;&gt;Li-Wen Yip&lt;/a&gt; and &lt;a href=&#34;https://github.com/GjjvdBurg/HugoPhotoSwipe&#34;&gt;Gert-Jan van den Berg&lt;/a&gt; for making galleries with &lt;a href=&#34;https://photoswipe.com&#34;&gt;PhotoSwipe&lt;/a&gt; .&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&lt;div class=&#34;gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;&#xA;&#x9;  &#xA;  &#xA;  &lt;link rel=&#34;stylesheet&#34; href=&#34;https://username.github.io/css/hugo-easy-gallery.css&#34; /&gt;&#xA;  &lt;div class=&#34;box&#34; &gt;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://username.github.io//img/hexagon-thumb.jpg&#39;);&#34;&gt;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://username.github.io/img/hexagon-thumb.jpg&#34; alt=&#34;/img/hexagon-thumb.jpg&#34;/&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;a href=&#34;https://username.github.io/img/hexagon.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;    &lt;/figure&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &#xA;  &#xA;  &lt;div class=&#34;box&#34; &gt;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://username.github.io//img/sphere-thumb.jpg&#39;);&#34;&gt;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://username.github.io/img/sphere-thumb.jpg&#34; alt=&#34;Sphere&#34;/&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;a href=&#34;https://username.github.io/img/sphere.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;        &lt;figcaption&gt;&#xA;            &lt;p&gt;Sphere&lt;/p&gt;&#xA;        &lt;/figcaption&gt;&#xA;    &lt;/figure&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &#xA;  &#xA;  &lt;div class=&#34;box&#34; &gt;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://username.github.io//img/triangle-thumb.jpg&#39;);&#34;&gt;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://username.github.io/img/triangle-thumb.jpg&#34; alt=&#34;This is a long comment about a triangle&#34;/&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;a href=&#34;https://username.github.io/img/triangle.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;        &lt;figcaption&gt;&#xA;            &lt;p&gt;Triangle&lt;/p&gt;&#xA;        &lt;/figcaption&gt;&#xA;    &lt;/figure&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;&#xA;&lt;/div&gt;</description>
+      <link>https://www.boardgame.bigdata.com/post/2017-03-20-photoswipe-gallery-sample/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate><author>youremail@domain.com (阿嚕米)</author>
+      <guid>https://www.boardgame.bigdata.com/post/2017-03-20-photoswipe-gallery-sample/</guid>
+      <description>&lt;p&gt;Beautiful Hugo adds a few custom shortcodes created by &lt;a href=&#34;https://www.liwen.id.au/heg/&#34;&gt;Li-Wen Yip&lt;/a&gt; and &lt;a href=&#34;https://github.com/GjjvdBurg/HugoPhotoSwipe&#34;&gt;Gert-Jan van den Berg&lt;/a&gt; for making galleries with &lt;a href=&#34;https://photoswipe.com&#34;&gt;PhotoSwipe&lt;/a&gt; .&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&lt;div class=&#34;gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;&#xA;&#x9;  &#xA;  &#xA;  &lt;link rel=&#34;stylesheet&#34; href=&#34;https://www.boardgame.bigdata.com/css/hugo-easy-gallery.css&#34; /&gt;&#xA;  &lt;div class=&#34;box&#34; &gt;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://www.boardgame.bigdata.com//img/hexagon-thumb.jpg&#39;);&#34;&gt;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://www.boardgame.bigdata.com/img/hexagon-thumb.jpg&#34; alt=&#34;/img/hexagon-thumb.jpg&#34;/&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;a href=&#34;https://www.boardgame.bigdata.com/img/hexagon.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;    &lt;/figure&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &#xA;  &#xA;  &lt;div class=&#34;box&#34; &gt;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://www.boardgame.bigdata.com//img/sphere-thumb.jpg&#39;);&#34;&gt;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://www.boardgame.bigdata.com/img/sphere-thumb.jpg&#34; alt=&#34;Sphere&#34;/&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;a href=&#34;https://www.boardgame.bigdata.com/img/sphere.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;        &lt;figcaption&gt;&#xA;            &lt;p&gt;Sphere&lt;/p&gt;&#xA;        &lt;/figcaption&gt;&#xA;    &lt;/figure&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &#xA;  &#xA;  &lt;div class=&#34;box&#34; &gt;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://www.boardgame.bigdata.com//img/triangle-thumb.jpg&#39;);&#34;&gt;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://www.boardgame.bigdata.com/img/triangle-thumb.jpg&#34; alt=&#34;This is a long comment about a triangle&#34;/&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;a href=&#34;https://www.boardgame.bigdata.com/img/triangle.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;        &lt;figcaption&gt;&#xA;            &lt;p&gt;Triangle&lt;/p&gt;&#xA;        &lt;/figcaption&gt;&#xA;    &lt;/figure&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Big Image Sample</title>
-      <link>https://username.github.io/post/2017-03-07-bigimg-sample/</link>
-      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate><author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/post/2017-03-07-bigimg-sample/</guid>
+      <link>https://www.boardgame.bigdata.com/post/2017-03-07-bigimg-sample/</link>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate><author>youremail@domain.com (阿嚕米)</author>
+      <guid>https://www.boardgame.bigdata.com/post/2017-03-07-bigimg-sample/</guid>
       <description>&lt;p&gt;The image banners at the top of the page are refered to as &amp;ldquo;bigimg&amp;rdquo; in this theme. They are optional, and one more more can be specified. If more than one is specified, the images rotate every 10 seconds. In the front matter, bigimgs are specified using an array of hashes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Math Sample</title>
-      <link>https://username.github.io/post/2017-03-05-math-sample/</link>
-      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate><author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/post/2017-03-05-math-sample/</guid>
+      <link>https://www.boardgame.bigdata.com/post/2017-03-05-math-sample/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate><author>youremail@domain.com (阿嚕米)</author>
+      <guid>https://www.boardgame.bigdata.com/post/2017-03-05-math-sample/</guid>
       <description>&lt;p&gt;KaTeX can be used to generate complex math formulas server-side.&lt;/p&gt;&#xA;&lt;p&gt;$$&#xA;\phi = \frac{(1+\sqrt{5})}{2} = 1.6180339887\cdots&#xA;$$&lt;/p&gt;&#xA;&lt;p&gt;Additional details can be found on &lt;a href=&#34;https://github.com/KaTeX/KaTeX&#34;&gt;GitHub&lt;/a&gt; or on the &lt;a href=&#34;https://katex.org/&#34;&gt;project homepage&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Code Sample</title>
-      <link>https://username.github.io/post/2016-03-08-code-sample/</link>
-      <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate><author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/post/2016-03-08-code-sample/</guid>
+      <link>https://www.boardgame.bigdata.com/post/2016-03-08-code-sample/</link>
+      <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate><author>youremail@domain.com (阿嚕米)</author>
+      <guid>https://www.boardgame.bigdata.com/post/2016-03-08-code-sample/</guid>
       <description>&lt;p&gt;The following are two code samples using syntax highlighting.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Flake it till you make it</title>
-      <link>https://username.github.io/post/2015-02-26-flake-it-till-you-make-it/</link>
-      <pubDate>Thu, 26 Feb 2015 00:00:00 +0000</pubDate><author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/post/2015-02-26-flake-it-till-you-make-it/</guid>
+      <link>https://www.boardgame.bigdata.com/post/2015-02-26-flake-it-till-you-make-it/</link>
+      <pubDate>Thu, 26 Feb 2015 00:00:00 +0000</pubDate><author>youremail@domain.com (阿嚕米)</author>
+      <guid>https://www.boardgame.bigdata.com/post/2015-02-26-flake-it-till-you-make-it/</guid>
       <description>Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?</description>
     </item>
     <item>
       <title>Test markdown</title>
-      <link>https://username.github.io/post/2015-02-20-test-markdown/</link>
-      <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate><author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/post/2015-02-20-test-markdown/</guid>
+      <link>https://www.boardgame.bigdata.com/post/2015-02-20-test-markdown/</link>
+      <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate><author>youremail@domain.com (阿嚕米)</author>
+      <guid>https://www.boardgame.bigdata.com/post/2015-02-20-test-markdown/</guid>
       <description>You can write regular markdown here and Hugo will automatically convert it to a nice webpage. I strongly encourage you to take 5 minutes to learn how to write in markdown - it&amp;rsquo;ll teach you how to transform regular text into bold/italics/headings/tables/etc.&#xA;Here is some bold text&#xA;Here is a secondary heading Here&amp;rsquo;s a useless table:&#xA;Number Next number Previous number Five Six Four Ten Eleven Nine Seven Eight Six Two Three One How about a yummy crepe?</description>
     </item>
     <item>
       <title>To be</title>
-      <link>https://username.github.io/post/2015-02-13-hamlet-monologue/</link>
-      <pubDate>Fri, 13 Feb 2015 00:00:00 +0000</pubDate><author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/post/2015-02-13-hamlet-monologue/</guid>
+      <link>https://www.boardgame.bigdata.com/post/2015-02-13-hamlet-monologue/</link>
+      <pubDate>Fri, 13 Feb 2015 00:00:00 +0000</pubDate><author>youremail@domain.com (阿嚕米)</author>
+      <guid>https://www.boardgame.bigdata.com/post/2015-02-13-hamlet-monologue/</guid>
       <description>To be, or not to be&amp;ndash;that is the question: Whether &amp;rsquo;tis nobler in the mind to suffer The slings and arrows of outrageous fortune Or to take arms against a sea of troubles And by opposing end them. To die, to sleep&amp;ndash; No more&amp;ndash;and by a sleep to say we end The heartache, and the thousand natural shocks That flesh is heir to. &amp;lsquo;Tis a consummation Devoutly to be wished. To die, to sleep&amp;ndash; To sleep&amp;ndash;perchance to dream: ay, there&amp;rsquo;s the rub, For in that sleep of death what dreams may come When we have shuffled off this mortal coil, Must give us pause.</description>
     </item>
     <item>
       <title>Dear diary</title>
-      <link>https://username.github.io/post/2015-01-27-dear-diary/</link>
-      <pubDate>Tue, 27 Jan 2015 00:00:00 +0000</pubDate><author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/post/2015-01-27-dear-diary/</guid>
+      <link>https://www.boardgame.bigdata.com/post/2015-01-27-dear-diary/</link>
+      <pubDate>Tue, 27 Jan 2015 00:00:00 +0000</pubDate><author>youremail@domain.com (阿嚕米)</author>
+      <guid>https://www.boardgame.bigdata.com/post/2015-01-27-dear-diary/</guid>
       <description>What is it with that Mary girl? Dragging me to school every day. As if I had a choice. What you don&amp;rsquo;t hear in those nursery rhymes is that she starves me if I don&amp;rsquo;t go to school with her; it&amp;rsquo;s the only way I can stay alive! I&amp;rsquo;m thinking about being adopted by Little Bo Peep, sure I may get lost, but anything is better than being with Mary and those little brats at school (shudder, shudder).</description>
     </item>
     <item>
       <title>Soccer</title>
-      <link>https://username.github.io/post/2015-01-19-soccer/</link>
-      <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate><author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/post/2015-01-19-soccer/</guid>
+      <link>https://www.boardgame.bigdata.com/post/2015-01-19-soccer/</link>
+      <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate><author>youremail@domain.com (阿嚕米)</author>
+      <guid>https://www.boardgame.bigdata.com/post/2015-01-19-soccer/</guid>
       <description>From Wikipedia:&#xA;Association football, more commonly known as football or soccer,[2] is a sport played between two teams of eleven players with a spherical ball. It is played by 250 million players in over 200 countries, making it the world&amp;rsquo;s most popular sport.[3][4][5][6] The game is played on a rectangular field with a goal at each end. The object of the game is to score by getting the ball into the opposing goal.</description>
     </item>
     <item>
       <title>Pirates arrrr</title>
-      <link>https://username.github.io/post/2015-01-15-pirates/</link>
-      <pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate><author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/post/2015-01-15-pirates/</guid>
+      <link>https://www.boardgame.bigdata.com/post/2015-01-15-pirates/</link>
+      <pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate><author>youremail@domain.com (阿嚕米)</author>
+      <guid>https://www.boardgame.bigdata.com/post/2015-01-15-pirates/</guid>
       <description>Piracy is typically an act of robbery or criminal violence at sea. The term can include acts committed on land, in the air, or in other major bodies of water or on a shore. It does not normally include crimes committed against persons traveling on the same vessel as the perpetrator (e.g. one passenger stealing from others on the same vessel). The term has been used throughout history to refer to raids across land borders by non-state agents.</description>
     </item>
     <item>
       <title>First post!</title>
-      <link>https://username.github.io/post/2015-01-04-first-post/</link>
-      <pubDate>Mon, 05 Jan 2015 00:00:00 +0000</pubDate><author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/post/2015-01-04-first-post/</guid>
+      <link>https://www.boardgame.bigdata.com/post/2015-01-04-first-post/</link>
+      <pubDate>Mon, 05 Jan 2015 00:00:00 +0000</pubDate><author>youremail@domain.com (阿嚕米)</author>
+      <guid>https://www.boardgame.bigdata.com/post/2015-01-04-first-post/</guid>
       <description>This is my first post, how exciting!</description>
     </item>
     <item>
       <title>About me</title>
-      <link>https://username.github.io/page/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>youremail@domain.com (Some Person)</author>
-      <guid>https://username.github.io/page/about/</guid>
+      <link>https://www.boardgame.bigdata.com/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>youremail@domain.com (阿嚕米)</author>
+      <guid>https://www.boardgame.bigdata.com/page/about/</guid>
       <description>My name is Inigo Montoya. I have the following qualities:&#xA;I rock a great mustache I&amp;rsquo;m extremely loyal to my family What else do you need?&#xA;my history To be honest, I&amp;rsquo;m having some trouble remembering right now, so why don&amp;rsquo;t you just watch my movie and it will answer all your questions.</description>
     </item>
   </channel>
