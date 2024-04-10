@@ -1,13 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Categories on Beautiful Hugo</title>
-    <link>https://www.boardgame.bigdata.com/categories/</link>
-    <description>Recent content in Categories on Beautiful Hugo</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <managingEditor>youremail@domain.com (阿嚕米)</managingEditor>
-    <webMaster>youremail@domain.com (阿嚕米)</webMaster>
-    <atom:link href="https://www.boardgame.bigdata.com/categories/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
+    <channel>
+        <title>Categories on 桌遊大數據</title>
+        <link>https://boardgame-bigdata.website/categories/</link>
+        <description>Recent content in Categories on 桌遊大數據</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-tw</language>
+        <copyright>桌遊大數據</copyright>
+        <lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://boardgame-bigdata.website/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>家庭遊戲</title>
+        <link>https://boardgame-bigdata.website/categories/%E5%AE%B6%E5%BA%AD%E9%81%8A%E6%88%B2/</link>
+        <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://boardgame-bigdata.website/categories/%E5%AE%B6%E5%BA%AD%E9%81%8A%E6%88%B2/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>輕型策略</title>
+        <link>https://boardgame-bigdata.website/categories/%E8%BC%95%E5%9E%8B%E7%AD%96%E7%95%A5/</link>
+        <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://boardgame-bigdata.website/categories/%E8%BC%95%E5%9E%8B%E7%AD%96%E7%95%A5/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Test</title>
+        <link>https://boardgame-bigdata.website/categories/test/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://boardgame-bigdata.website/categories/test/</guid>
+        <description>&lt;img src="https://boardgame-bigdata.website/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        </item>
+        
+    </channel>
 </rss>
