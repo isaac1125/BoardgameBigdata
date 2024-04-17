@@ -8,13 +8,14 @@
         <language>zh-tw</language>
         <copyright>桌遊大數據</copyright>
         <lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://boardgame-bigdata.website/categories/%E5%AE%B6%E5%BA%AD%E9%81%8A%E6%88%B2/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>【桌遊教學】 璀璨寶石 Splendor</title>
+        <title>【桌遊規則教學】 璀璨寶石 Splendor</title>
         <link>https://boardgame-bigdata.website/post/rule-splendor/</link>
         <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
         
         <guid>https://boardgame-bigdata.website/post/rule-splendor/</guid>
         <description>&lt;p&gt;人數：2-4 人（BGG 推薦最佳 3 人）&lt;br&gt;
-牌套：65x90(64x89)mm - 90 張&lt;/p&gt;
+牌套：65x90(64x89)mm - 90 張&lt;br&gt;
+文字量：不需文字&lt;/p&gt;
 &lt;h2 id=&#34;遊戲背景&#34;&gt;
     &lt;a href=&#34;#%e9%81%8a%e6%88%b2%e8%83%8c%e6%99%af&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     遊戲背景
@@ -22,13 +23,63 @@
 &lt;h2 id=&#34;遊戲設置&#34;&gt;
     &lt;a href=&#34;#%e9%81%8a%e6%88%b2%e8%a8%ad%e7%bd%ae&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     遊戲設置
-&lt;/h2&gt;&lt;p&gt;圖&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://boardgame-bigdata.website/post/rule-splendor/splendor_setting.png&#34;
+	width=&#34;1200&#34;
+	height=&#34;675&#34;
+	srcset=&#34;https://boardgame-bigdata.website/post/rule-splendor/splendor_setting_hu02938f66398baba68c3c5b680dcc9685_972628_480x0_resize_box_3.png 480w, https://boardgame-bigdata.website/post/rule-splendor/splendor_setting_hu02938f66398baba68c3c5b680dcc9685_972628_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;發展卡牌分三種等級，依序放置，並各翻四張出來&lt;br&gt;
+根據玩家人數拿取貴族卡及五種寶石:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;玩家人數&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;貴族卡&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;五種寶石&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;3&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;各 4 顆&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;3&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;各 5 顆&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;各 7 顆&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;code&gt;*註:黃金五顆全都要用&lt;/code&gt;&lt;/p&gt;
 &lt;h2 id=&#34;遊戲概述&#34;&gt;
     &lt;a href=&#34;#%e9%81%8a%e6%88%b2%e6%a6%82%e8%bf%b0&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     遊戲概述
-&lt;/h2&gt;&lt;p&gt;圖&lt;br&gt;
-用左下角所指定的寶石，購買卡牌，獲得左上角聲望分數&lt;br&gt;
-圖&lt;br&gt;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://boardgame-bigdata.website/post/rule-splendor/splendor_card.png&#34;
+	width=&#34;1200&#34;
+	height=&#34;675&#34;
+	srcset=&#34;https://boardgame-bigdata.website/post/rule-splendor/splendor_card_hu41a00ff6a94fa4f7fe7bd6e8da43f573_781207_480x0_resize_box_3.png 480w, https://boardgame-bigdata.website/post/rule-splendor/splendor_card_hu41a00ff6a94fa4f7fe7bd6e8da43f573_781207_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;
+付出寶石、購買卡牌，獲得聲望分數&lt;br&gt;
 湊齊指定卡牌，吸引貴族，也可以獲得分數&lt;/p&gt;
 &lt;h2 id=&#34;遊戲目標&#34;&gt;
     &lt;a href=&#34;#%e9%81%8a%e6%88%b2%e7%9b%ae%e6%a8%99&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
@@ -42,20 +93,32 @@
 &lt;/h2&gt;&lt;p&gt;遊戲採玩家回合進行，每位玩家執行完動作「四選一」後，順時針換下一位玩家的回合&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;選擇一：拿取三個不同顏色的寶石&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;選擇一：拿取三個不同顏色的寶石&lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;選擇二：拿取兩個相同顏色的寶石&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;選擇二：拿取兩個相同顏色的寶石&lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p class=&#34;redtext&#34;&gt;選擇二僅在該顏色寶石儲量至少有四個時可以選擇，只剩三個以下時不能拿兩個歐&lt;/p&gt;
 &lt;p&gt;拿完請檢查手上寶石數量，最多僅可保留 10 顆，玩家須捨棄多餘寶石放回儲備區，可以自行選擇欲捨棄寶石&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;註: 手上已經有 10 顆寶石時，仍然可以選擇拿取寶石(選擇一或二)，先進行拿取後再捨棄超出數量&lt;/code&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;選擇三：購買一張發展卡&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;選擇三：購買一張發展卡&lt;/strong&gt;
+&lt;img src=&#34;https://boardgame-bigdata.website/post/rule-splendor/splendor_buycard.png&#34;
+	width=&#34;1200&#34;
+	height=&#34;675&#34;
+	srcset=&#34;https://boardgame-bigdata.website/post/rule-splendor/splendor_buycard_hu41a00ff6a94fa4f7fe7bd6e8da43f573_787577_480x0_resize_box_3.png 480w, https://boardgame-bigdata.website/post/rule-splendor/splendor_buycard_hu41a00ff6a94fa4f7fe7bd6e8da43f573_787577_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;
+付出發展卡需要的寶石種類及數量(記得折價，詳見下方永久折價券)，即可購買該張聲望卡，再從同等級牌堆翻出一張卡補齊空格&lt;br&gt;
+購買後放在自己面前，建議將同顏色聲望卡以露出上方寶石及分數的方式疊在一起&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;付出發展卡需要的寶石種類及數量(記得折價)，即可購買該張聲望卡，再從同等級牌堆翻出一張卡補齊空格&lt;br&gt;
-購買後放在自己面前，建議將同顏色聲望卡以露出上方寶石及分數的方式疊在一起&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;永久折價券&lt;/strong&gt;&lt;br&gt;
 當你買了一張藍寶石卡（右上角藍寶石），未來買任何需要藍寶石的卡片時，都可以減免一顆藍寶石！你有兩張就減免兩顆，以此類推…賺爛！&lt;br&gt;
@@ -63,28 +126,46 @@
 所以 Level 3 的卡才會那麼貴，正常來說是需要靠一二等卡片的累積，這就是桌遊裡所謂的引擎構築，摸到門檻了 😂&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;選擇四：保留一張發展卡、並拿取一個黃金&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;選擇四：保留一張發展卡、並拿取一個黃金&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;如果有很想買的卡，現在還買不起，但怕被別人買走，可以先選擇保留起來，並拿取一個黃金&lt;br&gt;
 將保留的卡橫置在自己面前，在之後自己的回合中透過購買行動購買，注意保留後不可選擇放棄，且最多保留三張，在購買前不會享有折扣及獲得上面的積分&lt;br&gt;
 保留也可以盲抽牌堆中最上面那張進行盲保留，可以不公開給其他玩家&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;黃金&lt;/strong&gt;相當於萬用寶石，可在未來某次購買時取代一顆任意寶石，不一定要用在保留的那張聲望卡，黃金也須計入寶石的 10 顆上限中&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;黃金&lt;/strong&gt;相當於萬用寶石，可在未來某次購買時取代一顆任意寶石，不一定要用在保留的那張聲望卡，黃金也須計入手中寶石的 10 顆上限中&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h3 id=&#34;回合最後&#34;&gt;
     &lt;a href=&#34;#%e5%9b%9e%e5%90%88%e6%9c%80%e5%be%8c&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     回合最後
-&lt;/h3&gt;&lt;p&gt;在執行完玩家回合（動作四選一）後，檢查自己面前若有符合貴族所要求之對應卡牌顏色及數量，貴族會自動放到你面前（不需耗費行動、也不可拒絕）&lt;br&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://boardgame-bigdata.website/post/rule-splendor/splendor_noble.png&#34;
+	width=&#34;1200&#34;
+	height=&#34;675&#34;
+	srcset=&#34;https://boardgame-bigdata.website/post/rule-splendor/splendor_noble_hu41a00ff6a94fa4f7fe7bd6e8da43f573_786325_480x0_resize_box_3.png 480w, https://boardgame-bigdata.website/post/rule-splendor/splendor_noble_hu41a00ff6a94fa4f7fe7bd6e8da43f573_786325_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;
+在執行完玩家回合（動作四選一）後，檢查自己面前若有符合貴族所要求之對應卡牌顏色及數量，貴族會自動放到你面前（不需耗費行動、也不可拒絕）&lt;br&gt;
 一回合中若滿足多位貴族條件，僅可自行挑選一位放到自己面前，只能一位且不能拒絕&lt;/p&gt;
-&lt;p&gt;檢查面前聲望卡牌及貴族板塊，左上角分數加總後是否大於等於 15 分，若有即觸發終局機制（詳見遊戲目標）&lt;/p&gt;
+&lt;p&gt;檢查面前聲望卡牌及貴族板塊，左上角分數加總後是否大於等於 15 分，若有即觸發終局機制（詳見&lt;a class=&#34;link&#34; href=&#34;https://boardgame-bigdata.website/post/rule-splendor/#%e9%81%8a%e6%88%b2%e7%9b%ae%e6%a8%99&#34; &gt;遊戲目標&lt;/a&gt;）&lt;/p&gt;
 &lt;h2 id=&#34;常見問題&#34;&gt;
     &lt;a href=&#34;#%e5%b8%b8%e8%a6%8b%e5%95%8f%e9%a1%8c&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     常見問題
-&lt;/h2&gt;&lt;p&gt;Q:&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;Q:結束時可以不將保留的卡買完嗎?&lt;br&gt;
+A:可以，不過記得該卡不計分，因此也可以將保留卡牌動作當作一種戰術，阻止對手拿到想要的牌&lt;/p&gt;
+&lt;p&gt;Q:黃金被拿完了!
+A:仍然可以進行&lt;strong&gt;保留卡牌&lt;/strong&gt;動作，但沒有黃金拿 QQ&lt;/p&gt;
+&lt;p&gt;Q:某一疊卡牌被拿完
+A:一般來說，買任何一疊的卡牌後都需要將卡牌翻出，補齊四張正面朝上，但若該等級被拿完就不需要了&lt;/p&gt;
 &lt;h2 id=&#34;後記&#34;&gt;
     &lt;a href=&#34;#%e5%be%8c%e8%a8%98&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     後記
 &lt;/h2&gt;&lt;p&gt;第一篇規則決定獻給我的啟蒙遊戲「璀璨寶石」，還記得國中時跟同學去家附近的桌遊店，當時店員推薦給我們的最適合入門的家庭策略，就是璀璨寶石，當時甚至喜歡到跟同學合資買了一盒，成為我擁有的第一款桌遊(&lt;em&gt;ˉ︶ˉ&lt;/em&gt;)，也可以說它開啟了我對桌遊的熱情 R，非常適合推坑家人朋友，作為認識策略遊戲的敲門磚。&lt;/p&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js&#34; data-name=&#34;bmc-button&#34; data-slug=&#34;isaac1125&#34; data-color=&#34;#FFDD00&#34; data-emoji=&#34;🍗&#34;  data-font=&#34;Poppins&#34; data-text=&#34;支持一下 讓阿嚕米 晚餐加雞腿&#34; data-outline-color=&#34;#000000&#34; data-font-color=&#34;#000000&#34; data-coffee-color=&#34;#ffffff&#34; &gt;&lt;/script&gt;
 </description>
         </item>
         

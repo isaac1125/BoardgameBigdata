@@ -1,26 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>桌遊大數據</title>
-        <link>https://boardgame-bigdata.website/</link>
-        <description>Recent content on 桌遊大數據</description>
+        <title>入門 on 桌遊大數據</title>
+        <link>https://boardgame-bigdata.website/tags/%E5%85%A5%E9%96%80/</link>
+        <description>Recent content in 入門 on 桌遊大數據</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
         <copyright>桌遊大數據</copyright>
-        <lastBuildDate>Wed, 17 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://boardgame-bigdata.website/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>關於</title>
-        <link>https://boardgame-bigdata.website/page/about/</link>
-        <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://boardgame-bigdata.website/page/about/</guid>
-        <description>&lt;p&gt;前桌遊店店員，以前遇到客人在遊戲櫃，意圖要拿我不會的遊戲時&amp;hellip;&lt;br&gt;
-立馬衝到櫃台，開手機查規則，謝謝各大桌遊網誌拯救我的打工生涯(欠揍&lt;/p&gt;
-&lt;p&gt;出來工作幾年ㄌ，回憶大學時期，紀錄曾經學過的教學方法!&lt;br&gt;
-希望也可以幫助需要的人們~&lt;/p&gt;
-&lt;script type=&#34;text/javascript&#34; src=&#34;https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js&#34; data-name=&#34;bmc-button&#34; data-slug=&#34;isaac1125&#34; data-color=&#34;#FFDD00&#34; data-emoji=&#34;🍗&#34;  data-font=&#34;Poppins&#34; data-text=&#34;支持一下 讓阿嚕米 晚餐加雞腿&#34; data-outline-color=&#34;#000000&#34; data-font-color=&#34;#000000&#34; data-coffee-color=&#34;#ffffff&#34; &gt;&lt;/script&gt;
-</description>
-        </item>
-        <item>
+        <lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://boardgame-bigdata.website/tags/%E5%85%A5%E9%96%80/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>【桌遊規則教學】 璀璨寶石 Splendor</title>
         <link>https://boardgame-bigdata.website/post/rule-splendor/</link>
         <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
@@ -180,22 +167,6 @@ A:一般來說，買任何一疊的卡牌後都需要將卡牌翻出，補齊四
 &lt;/h2&gt;&lt;p&gt;第一篇規則決定獻給我的啟蒙遊戲「璀璨寶石」，還記得國中時跟同學去家附近的桌遊店，當時店員推薦給我們的最適合入門的家庭策略，就是璀璨寶石，當時甚至喜歡到跟同學合資買了一盒，成為我擁有的第一款桌遊(&lt;em&gt;ˉ︶ˉ&lt;/em&gt;)，也可以說它開啟了我對桌遊的熱情 R，非常適合推坑家人朋友，作為認識策略遊戲的敲門磚。&lt;/p&gt;
 &lt;script type=&#34;text/javascript&#34; src=&#34;https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js&#34; data-name=&#34;bmc-button&#34; data-slug=&#34;isaac1125&#34; data-color=&#34;#FFDD00&#34; data-emoji=&#34;🍗&#34;  data-font=&#34;Poppins&#34; data-text=&#34;支持一下 讓阿嚕米 晚餐加雞腿&#34; data-outline-color=&#34;#000000&#34; data-font-color=&#34;#000000&#34; data-coffee-color=&#34;#ffffff&#34; &gt;&lt;/script&gt;
 </description>
-        </item>
-        <item>
-        <title>所有文章</title>
-        <link>https://boardgame-bigdata.website/page/archives/</link>
-        <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://boardgame-bigdata.website/page/archives/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>搜尋</title>
-        <link>https://boardgame-bigdata.website/page/search/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://boardgame-bigdata.website/page/search/</guid>
-        <description></description>
         </item>
         
     </channel>
